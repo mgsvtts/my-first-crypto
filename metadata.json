@@ -1,0 +1,5 @@
+{
+  "program_id": "your_program_id",
+  "repo_url": "https://github.com/yourusername/my-solana-program",
+  "description": "This is a Solana program that does XYZ."
+}
